@@ -26,7 +26,7 @@
     "crypto": "^0.0.3",
     "crypto-js": "^3.1.9-1",
     "echarts": "^4.1.0",
-    "ejs": "~2.3.3",
+    "ejs": "~2.5.5",
     "eventproxy": "^0.3.4",
     "express": "~4.13.1",
     "express-mysql-session": "^1.0.0",
