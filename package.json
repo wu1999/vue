@@ -28,7 +28,7 @@
     "echarts": "^4.1.0",
     "ejs": "~2.3.3",
     "eventproxy": "^0.3.4",
-    "express": "~4.13.1",
+    "express": "~4.17.3",
     "express-mysql-session": "^1.0.0",
     "express-session": "^1.13.0",
     "fs-extra": "^4.0.2",
